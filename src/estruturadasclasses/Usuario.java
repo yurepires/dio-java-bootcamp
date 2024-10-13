@@ -1,4 +1,14 @@
-package edu.yure.tema.estruturadasclasses.sistema_smart_tv;
+package estruturadasclasses;
+
+/*
+* Lembrar que se quiser executar o código pelo terminal tem que
+* mover para a pasta out até a pasta do nome do projeto e se
+* o arquivo que quiser executar estiver em um pacote, deve
+* colocar: java nomedopacote.nomedoarquivo para ser executado
+* por exemplo:
+* cd C:\estudos\java\dio-java-bootcamp\out\production\dio-java-bootcamp
+* java estruturadasclasse.Usuario
+* */
 
 public class Usuario {
 

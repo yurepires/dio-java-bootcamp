@@ -1,4 +1,4 @@
-package edu.yure.tema.estruturadasclasses.sistema_smart_tv;
+package estruturadasclasses;
 
 public class SmartTv {
     boolean ligada = false;
