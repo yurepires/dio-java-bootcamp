@@ -1,4 +1,4 @@
-package java_collections.list.carrinhodecompras;
+package java_collections.list.ordenacao.carrinhodecompras;
 
 public class Item {
     //atributo

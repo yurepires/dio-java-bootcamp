@@ -1,4 +1,4 @@
-package java_collections.list.listadetarefas;
+package java_collections.list.ordenacao.listadetarefas;
 
 import java.util.ArrayList;
 import java.util.List;
